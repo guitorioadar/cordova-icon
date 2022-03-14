@@ -43,6 +43,7 @@ var getPlatforms = function (projectName) {
       { name: 'icon-40@2x.png',          size : 80   },
       { name: 'icon-50.png',             size : 50   },
       { name: 'icon-50@2x.png',          size : 100  },
+      { name: 'icon-60.png',             size : 60   },
       { name: 'icon-60@2x.png',          size : 120  },
       { name: 'icon-60@3x.png',          size : 180  },
       { name: 'icon-72.png',             size : 72   },
@@ -56,14 +57,14 @@ var getPlatforms = function (projectName) {
       { name: 'icon-small@3x.png',       size : 87   },
       { name: 'icon.png',                size : 57   },
       { name: 'icon@2x.png',             size : 114  },
-      { name: 'AppIcon24x24@2x.png',     size : 48   },
-      { name: 'AppIcon27.5x27.5@2x.png', size : 55   },
-      { name: 'AppIcon29x29@2x.png',     size : 58   },
-      { name: 'AppIcon29x29@3x.png',     size : 87   },
-      { name: 'AppIcon40x40@2x.png',     size : 80   },
-      { name: 'AppIcon44x44@2x.png',     size : 88   },
-      { name: 'AppIcon86x86@2x.png',     size : 172  },
-      { name: 'AppIcon98x98@2x.png',     size : 196  }
+//       { name: 'AppIcon24x24@2x.png',     size : 48   },
+//       { name: 'AppIcon27.5x27.5@2x.png', size : 55   },
+//       { name: 'AppIcon29x29@2x.png',     size : 58   },
+//       { name: 'AppIcon29x29@3x.png',     size : 87   },
+//       { name: 'AppIcon40x40@2x.png',     size : 80   },
+//       { name: 'AppIcon44x44@2x.png',     size : 88   },
+//       { name: 'AppIcon86x86@2x.png',     size : 172  },
+//       { name: 'AppIcon98x98@2x.png',     size : 196  }
     ]
   });
   platforms.push({
